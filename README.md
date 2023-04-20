@@ -1,2 +1,2 @@
-# Vue3CommonComponents
-vue3通用组件库
+#uniapp-wechat通用组件
+依赖 scss 和 ts
