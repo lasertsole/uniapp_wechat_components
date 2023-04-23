@@ -1,0 +1,57 @@
+<h3>navBar.vue</h3>
+<h4>navBar API</h4>
+<table>
+    <tr>
+        <th>属性名</th>
+        <th>说明</th>
+        <th>类型</th>
+        <th>默认值</th>
+    </tr>
+    <tr>
+        <td>paddingTop</td>
+        <td>导航栏上内边距</td>
+        <td>string</td>
+        <td>0px</td>
+    </tr>
+    <tr>
+        <td>paddingRight</td>
+        <td>导航栏右内边距</td>
+        <td>string</td>
+        <td>0px</td>
+    </tr>
+    <tr>
+        <td>paddingBottom</td>
+        <td>导航栏下内边距</td>
+        <td>string</td>
+        <td>0px</td>
+    </tr>
+    <tr>
+        <td>paddingLeft</td>
+        <td>导航栏左内边距</td>
+        <td>string</td>
+        <td>0px</td>
+    </tr>
+    <tr>
+        <td>backgroundColor</td>
+        <td>导航栏背景颜色</td>
+        <td>string</td>
+        <td>transparent</td>
+    </tr>
+    <tr>
+        <td>textColor</td>
+        <td>导航栏字体颜色</td>
+        <td>string</td>
+        <td>black</td>
+    </tr>
+</table>
+<h4>navBar slot</h4>
+<table>
+    <tr>
+        <th>插槽名</th>
+        <th>说明</th>
+    </tr>
+    <tr>
+        <td>default</td>
+        <td>自定义默认内容</td>
+    </tr>
+</table>
